@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-08-28T20:43:39.991Z'
+datePublished: '2016-08-28T20:44:17.672Z'
 author: []
 via: {}
-dateModified: '2016-08-28T20:43:22.518Z'
+dateModified: '2016-08-28T20:44:17.024Z'
 title: ''
 publisher: {}
 description: Looking for Clarity in an unclear world
-starred: false
 sourcePath: _posts/2016-08-28-looking-for-clarity-in-an-unclear-world.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: looking-for-clarity-in-an-unclear-world/index.html
 _context: 'http://schema.org'
 _type: Article
