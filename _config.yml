@@ -28,5 +28,8 @@ navigation:
   - name: Articles
     id: 5d5fffe7-81fa-4fb5-86a4-eaaca87c4ace
     type: content
+  - name: About us
+    id: 3a6f95fe-6865-46fa-9f97-ce4d3702dcb2
+    type: content
 title: Ascent
 description: looking for clarity in an unclear world
