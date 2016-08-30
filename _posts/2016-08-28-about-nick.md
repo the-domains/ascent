@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-28T20:48:06.647Z'
+datePublished: '2016-08-29T01:20:56.679Z'
+sourcePath: _posts/2016-08-28-about-nick.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T20:48:06.178Z'
+dateModified: '2016-08-29T01:20:56.288Z'
 title: About Nick
 publisher: {}
 description: >-
   “And whatever you do, whether in word or deed, do it all in the name of the
   Lord Jesus.”- Col 3:17
-sourcePath: _posts/2016-08-28-about-nick.md
-hasPage: true
 starred: false
 url: about-nick/index.html
 _type: Article
@@ -22,7 +22,7 @@ _type: Article
 
 "And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus."- Col 3:17
 
-For the passed eleven years Nicholas Sommer has served
+For the passed eleven years Nick has served
 
 in various aspects of ministry from media, missions,
 
@@ -30,7 +30,7 @@ youth, teaching, counseling, worship, Christian education
 
 and Home Fellowship oversight.
 
-At Calvary Chapel Sarasota, he began to fall in love with
+At his local church, he began to fall in love with
 
 the study of God's Word through exegetical teaching.
 
@@ -52,7 +52,7 @@ and reproduced resource materials for the church body.
 
 After graduation and the birth of his first child, he
 
-returned to Sarasota to fill the role of the school's
+returned to his home church to fill the role of the school's
 
 principal, where he has served for the passed nine years.
 
@@ -80,20 +80,18 @@ through the OT, Romans, Hebrews, Acts, and John. Other
 
 responsibilities include oversight of the home fellowship
 
-ministry at CCS.
+ministry.
 
-In 2010 Nicholas Sommer enrolled in Reformed Theological
+In 2010 Nick enrolled in Reformed Theological
 
 Seminary to further his biblical understanding in serving the
 
 body of Christ.
 
-Most importantly, Nicholas Sommer is a happily married
+Most importantly, Nick is a happily married
 
-husband and father of three. He and Andrea Sommer have
+husband and father of three. He and wife have
 
 been married for thirteen years this November, and grow more
 
-in love with one another every year. His three children are
-
-Noah Christopher, Anastasia Hope and Judah Nathaniel.
+in love with one another every year.
