@@ -1,9 +1,6 @@
-name: Ascent
-layout_spectrum: 0.8876692840548038
 typography_spectrum: 0.2832196488315998
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#E7E8D1'
@@ -15,10 +12,13 @@ color:
   lightness: 0.24680655606794677
   saturation: 0.3235582265768948
   rhythmicContrast: 0.15686724257289075
-title: looking for clarity in an unclear world
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.8876692840548038
 author:
   name: ''
   url: ''
   email: ''
-content_rating:
-  adult: false
+name: Ascent
+title: Ascent
