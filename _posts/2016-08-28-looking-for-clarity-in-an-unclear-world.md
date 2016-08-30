@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-28T20:44:17.672Z'
+datePublished: '2016-08-28T20:46:18.092Z'
 author: []
 via: {}
-dateModified: '2016-08-28T20:44:17.024Z'
+dateModified: '2016-08-28T20:46:17.143Z'
 title: ''
 publisher: {}
 description: Looking for Clarity in an unclear world
