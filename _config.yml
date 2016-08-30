@@ -21,5 +21,9 @@ author:
   url: ''
   email: ''
 name: Ascent
+navigation:
+  - name: About us
+    id: 7113a44a-e126-450a-8b12-3a6d2284235c
+    type: content
 title: Ascent
 description: looking for clarity in an unclear world
