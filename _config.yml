@@ -1,0 +1,14 @@
+name: Ascent
+layout_spectrum: 0.8876692840548038
+typography_spectrum: 0.2832196488315998
+color:
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+  brandStrength: 0.3478937823945125
+  lightness: 0.24680655606794677
+  saturation: 0.3235582265768948
+  rhythmicContrast: 0.15686724257289075
