@@ -1,17 +1,19 @@
 ---
-datePublished: '2016-08-28T20:43:37.259Z'
+datePublished: '2016-08-28T20:48:06.647Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T20:40:44.330Z'
+dateModified: '2016-08-28T20:48:06.178Z'
 title: About Nick
 publisher: {}
 description: >-
   “And whatever you do, whether in word or deed, do it all in the name of the
   Lord Jesus.”- Col 3:17
-starred: false
 sourcePath: _posts/2016-08-28-about-nick.md
-_type: Blurb
+hasPage: true
+starred: false
+url: about-nick/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d02d9d91-2ec2-4dbd-97d8-3e0baf44a44f.jpg)
