@@ -1,7 +1,14 @@
 ---
-authors: []
-dateModified: '2016-08-28T19:31:42.455Z'
-datePublished: '2016-08-28T19:31:43.584Z'
+keywords: []
+title: The outcome of the wicked
+datePublished: '2016-08-28T20:45:17.573Z'
+dateModified: '2016-08-28T20:45:16.180Z'
+publisher:
+  name: Nicholas Sommer
+author: []
+inFeed: true
+hasPage: true
+inNav: false
 description: >-
   Why would a loving God who loves by nature send anyone to Hell? If everyone
   will not be saved, then Christ died in vain and there was no victory at the
@@ -10,17 +17,9 @@ description: >-
   unjust if God condemned some to eternal damnation. How could we saints in
   Heaven celebrate if someone we knew and loved was being tortured forever and
   ever? I cannot serve a God like that.
-hasPage: true
-inFeed: true
-inNav: false
-keywords: []
-publisher:
-  name: Nicholas Sommer
-title: The outcome of the wicked
-author: []
-sourcePath: _posts/2016-04-08-the-outcome-of-the-wicked.md
 via: {}
-starred: false
+starred: true
+sourcePath: _posts/2016-04-08-the-outcome-of-the-wicked.md
 url: the-outcome-of-the-wicked/index.html
 _type: Article
 
