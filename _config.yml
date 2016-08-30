@@ -1,5 +1,6 @@
-layout_spectrum: 0.5827235449105501
 typography_spectrum: 0.4283552479464561
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FCFFF5'
@@ -11,11 +12,10 @@ color:
   lightness: 0.7073965796735138
   saturation: 0.16044786502607167
   rhythmicContrast: 0.039009531727060676
-content_rating:
-  adult: false
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.5827235449105501
 author:
   name: ''
   url: ''
@@ -33,5 +33,8 @@ navigation:
   - name: About us
     id: 3a6f95fe-6865-46fa-9f97-ce4d3702dcb2
     type: content
+  - name: Resource
+    url: 'http://www.desiringgod.org/'
+    type: external
 title: looking for clarity in an unclear world
 description: ''
