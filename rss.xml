@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Ascent]]></title>
-        <description><![CDATA[Ascent]]></description>
+        <title><![CDATA[looking for clarity in an unclear world]]></title>
+        <description><![CDATA[looking for clarity in an unclear world]]></description>
         <link>https://thegrid.ai/ascent/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 23:56:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 01:20:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ascent/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The outcome of the wicked]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>About Nick</h1><p>“And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus.”- Col 3:17</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d02d9d91-2ec2-4dbd-97d8-3e0baf44a44f.jpg"></article>]]></description>
             <link>https://thegrid.ai/ascent/about-nick/index.html</link>
             <guid isPermaLink="false">3a6f95fe-6865-46fa-9f97-ce4d3702dcb2</guid>
-            <pubDate>Sun, 28 Aug 2016 20:48:06 GMT</pubDate>
+            <pubDate>Mon, 29 Aug 2016 01:20:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
