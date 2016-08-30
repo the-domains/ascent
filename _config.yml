@@ -20,6 +20,8 @@ author:
   name: ''
   url: ''
   email: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/979c1fc8-6edd-4e1a-917e-485bed0d3d10.jpg
 name: Ascent
 navigation:
   - name: Home
@@ -31,5 +33,5 @@ navigation:
   - name: About us
     id: 3a6f95fe-6865-46fa-9f97-ce4d3702dcb2
     type: content
-title: Ascent
+title: ' '
 description: looking for clarity in an unclear world
