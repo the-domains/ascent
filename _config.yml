@@ -22,7 +22,7 @@ author:
   email: ''
 name: Ascent
 navigation:
-  - name: About us
+  - name: Home
     id: 7113a44a-e126-450a-8b12-3a6d2284235c
     type: content
   - name: Articles
