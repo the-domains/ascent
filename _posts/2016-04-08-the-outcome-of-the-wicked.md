@@ -1,30 +1,24 @@
 ---
-keywords: []
-title: The outcome of the wicked
-datePublished: '2016-08-28T20:45:17.573Z'
-dateModified: '2016-08-28T20:45:16.180Z'
-publisher:
-  name: Nicholas Sommer
-author: []
+datePublished: '2016-08-28T23:56:22.077Z'
+sourcePath: _posts/2016-04-08-the-outcome-of-the-wicked.md
 inFeed: true
 hasPage: true
-inNav: false
-description: >-
-  Why would a loving God who loves by nature send anyone to Hell? If everyone
-  will not be saved, then Christ died in vain and there was no victory at the
-  Cross. Surely it is a failure if an all-powerful God cannot save all. God is a
-  gracious and merciful God, therefore, He will save everybody. It would be
-  unjust if God condemned some to eternal damnation. How could we saints in
-  Heaven celebrate if someone we knew and loved was being tortured forever and
-  ever? I cannot serve a God like that.
+keywords: []
+author: []
 via: {}
+dateModified: '2016-08-28T23:56:21.584Z'
+title: The outcome of the wicked
+publisher:
+  name: Nicholas Sommer
+description: Article
+inNav: false
 starred: true
-sourcePath: _posts/2016-04-08-the-outcome-of-the-wicked.md
 url: the-outcome-of-the-wicked/index.html
 _type: Article
 
 ---
-![A struggle with the thought of an eternal hell](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0c57cbbbbb4c83dbae6f76c9d86ea6fe9b9b296.jpg)
+Article
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/15fc818deebde7bf47cd145d33dd57117e4cfdbb.jpg)
 
 > "In the long run the answer to all those who object to the doctrine of hell is itself a question: "What are you asking God to do?" To wipe out their past sins and, at all costs, to give them a fresh start, smoothing every difficulty and offering every miraculous help? But He has done so, on Calvary. To forgive them? They will not be forgiven. To leave them alone? Alas, I am afraid that is what He does"1
 
